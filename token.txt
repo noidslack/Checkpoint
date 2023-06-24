@@ -2,3 +2,4 @@ token Patricio: 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
 token Nathaly: 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
 token Laura Gómez: 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
 token Sebastian Rondon: gph_JY0dbXe95vBUbCf9giA6M3GTrz3TqN1CZ8hR
+token Oscar: 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
