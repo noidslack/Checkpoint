@@ -1,1 +1,2 @@
 # Checkpoint
+Patricio Améstica
